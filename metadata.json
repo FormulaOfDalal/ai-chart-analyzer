@@ -1,0 +1,5 @@
+{
+  "name": "AI Chart Analyzer",
+  "description": "An AI-powered tool to analyze financial chart images. It identifies key resistance/support levels, trends, chart patterns, candlestick patterns, volume, and momentum using Gemini API.",
+  "requestFramePermissions": []
+}
